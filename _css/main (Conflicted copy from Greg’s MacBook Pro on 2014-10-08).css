@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.tilepad {
+	padding-top: 10px;
+
+}
+
+.navborder {
+	background : #FFFFFF;
+  	background : rgba(255, 255, 255, 1);
+  	border-style : Solid;
+  	border-color : #000000;
+  	border-color : rgba(0, 0, 0, 1);
+  	border-width : 1px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.hometiles {
+	height: 100px;
+	width: 100px;
+	background : #FFFFFF;
+	background : rgba(255, 255, 255, 1);
+	border-style : Solid;
+	border-color : #000000;
+	border-color : rgba(0, 0, 0, 1);
+	border-width : 1px;
+	border-radius : 15px;
+	-moz-border-radius : 15px;
+	-webkit-border-radius : 15px;
+	vertical-align: middle;
+	text-align: center;
+}

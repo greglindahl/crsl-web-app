@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+html {
+	background: #999;
+}
+
+body {
+	background:#FFF;
+	width:auto;
+	height:auto;
+	margin:auto;
+}
+
+.draggable {
+	float:left;
+}
+
+
